@@ -1,1 +1,1 @@
-# y-first-sttic-web-app
+# my-first-sttic-web-app
