@@ -20,7 +20,7 @@ export class AppModule { }
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
-import { MiComponenteComponent } from './mi-componente.component';
+import { MiComponenteComponent } from './mi-componente/mi-componente.component';
 
 @NgModule({
   declarations: [
