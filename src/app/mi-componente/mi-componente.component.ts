@@ -15,5 +15,8 @@ export class MiComponenteComponent {
     'Acepta pagos a través de Yape, Plin y otras plataformas.',
     'Visualiza y gestiona los pedidos de tus clientes de forma eficiente.'
   ];
+  
+  constructor() { }
+  
 }
 
