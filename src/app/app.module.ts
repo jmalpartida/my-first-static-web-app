@@ -11,7 +11,8 @@ import { MiComponenteComponent } from './mi-componente/mi-componente.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MiComponenteComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
