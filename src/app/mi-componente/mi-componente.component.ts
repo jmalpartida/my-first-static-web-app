@@ -1,4 +1,5 @@
-import { MiComponenteComponent } from '@angular/core';
+
+import { MiComponenteComponent } from './mi-componente/mi-componente.component';
 
 @Component({
   selector: 'app-mi-componente',
