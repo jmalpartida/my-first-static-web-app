@@ -1,5 +1,5 @@
-//import { Component } from '@angular/core';
-import { MiComponent } from './mi-componente.ts';
+import { Component } from '@angular/core';
+
 @Component({
   selector: 'app-mi-componente',
   templateUrl: './mi-componente.component.html',
