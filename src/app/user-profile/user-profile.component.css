@@ -1,0 +1,11 @@
+.user-profile {
+  font-family: Arial, sans-serif;
+  border: 1px solid #ddd;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.user-profile h2 {
+  color: #4CAF50;
+}
