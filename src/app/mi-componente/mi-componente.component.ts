@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./mi-componente.component.css']
 })
 export class MiComponenteComponent {
-  title: string = 'Bienvenido a Qhatuyki';
-  description: string = 'Qhatuyki es la herramienta de productividad en la nube diseñada para los comerciantes de los mercados de abastos en Santiago de Surco, Perú. Con Qhatuyki, podrás vender tus productos en línea, gestionar pedidos, ofrecer descuentos exclusivos y facilitar el pago de forma segura a través de plataformas como Yape y Plin.';
+  title: string = 'Sistema Punto de Venta Qhatuyki';
+  description: string = 'Qhatuyki es la herramienta de productividad en la nube diseñada para tu negócio. Con Qhatuyki punto de venta, podrás vender tus productos en línea, gestionar pedidos, ofrecer descuentos exclusivos y facilitar el pago de forma segura a través de plataformas como Yape y Plin.';
   features: string[] = [
     'Crea tu tienda en línea fácilmente.',
     'Ofrece descuentos y promociones especiales.',
