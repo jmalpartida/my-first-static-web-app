@@ -7,9 +7,9 @@ import { Component } from '@angular/core';
 })
 export class UserProfileComponent {
   user = {
-    name: 'John Doe',
-    email: 'john.doe@example.com',
-    bio: 'A passionate developer with a love for technology and innovation.',
+    name: 'Contactanos ahora',
+    email: 'systemredpc'@'gmail.com',
+    bio: 'Mayor información o realizar una prueba del Software, solo escríbenos.',
   };
 }
 
