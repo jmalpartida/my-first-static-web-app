@@ -9,7 +9,7 @@ export class UserProfileComponent {
   user = {
     name: 'Juan',
     email: 'systemredpc@gmail.com',
-    bio: 'Mayor información o realizar una prueba del Software, solo escríbenos.',
+    bio: 'Mayor información o pruebas del Software, solo escríbenos.',
   };
 }
 
