@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class UserProfileComponent {
   user = {
-    name: 'Contactanos ahora',
+    name: 'Juan',
     email: 'systemredpc'@'gmail.com',
     bio: 'Mayor información o realizar una prueba del Software, solo escríbenos.',
   };
