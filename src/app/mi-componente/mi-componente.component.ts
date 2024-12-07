@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./mi-componente.component.css']
 })
 export class MiComponenteComponent {
-  title: string = 'Sistema Punto de Venta Qhatuyki';
+  title: string = 'Potencia tu Negocio con Qhatuyki: La Herramienta Todo en Uno para Comerciantes Inteligentes';
   description: string = 'Qhatuyki es la herramienta de productividad en la nube diseñada para tu negócio. Con Qhatuyki punto de venta, podrás vender tus productos en línea, gestionar pedidos, ofrecer descuentos exclusivos y facilitar el pago de forma segura a través de plataformas como Yape y Plin.';
   features: string[] = [
     'Crea tu tienda en línea fácilmente.',
