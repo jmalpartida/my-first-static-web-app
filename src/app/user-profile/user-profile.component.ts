@@ -8,8 +8,8 @@ import { Component } from '@angular/core';
 export class UserProfileComponent {
   user = {
     name: 'Juan',
-    email: 'systemredpc@gmail.com',
-    bio: 'Mayor información o pruebas del Software, solo escríbenos.',
+    email: 'contacto@systemredpc.net',
+    bio: 'información o pruebas de software, escríbenos.',
   };
 }
 
